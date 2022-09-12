@@ -1,1 +1,62 @@
-[{"sirano": "1", "takimadi": "MAHMUTK\u00d6Y\u00dc KARTAL GEN\u00c7L\u0130K SPOR", "oynanan_oyun": "8", "galibiyet": "6", "beraberlik": "1", "maglubiyet": "1", "attigi_gol": "25", "yedigi_gol": "13", "average": "12", "puan": "19"}, {"sirano": "2", "takimadi": "AK\u00c7\u0130N GEN\u00c7L\u0130K SPOR", "oynanan_oyun": "8", "galibiyet": "3", "beraberlik": "1", "maglubiyet": "4", "attigi_gol": "22", "yedigi_gol": "22", "average": "0", "puan": "10"}, {"sirano": "3", "takimadi": "\u00c7IKRIK GEN\u00c7L\u0130K SPOR", "oynanan_oyun": "8", "galibiyet": "3", "beraberlik": "1", "maglubiyet": "4", "attigi_gol": "23", "yedigi_gol": "26", "average": "-3", "puan": "10"}, {"sirano": "4", "takimadi": "ATAK\u00d6Y GEN\u00c7L\u0130K SPOR", "oynanan_oyun": "8", "galibiyet": "2", "beraberlik": "3", "maglubiyet": "3", "attigi_gol": "16", "yedigi_gol": "19", "average": "-3", "puan": "9"}, {"sirano": "5", "takimadi": "SULTANDA\u011eI SPOR", "oynanan_oyun": "8", "galibiyet": "2", "beraberlik": "2", "maglubiyet": "4", "attigi_gol": "19", "yedigi_gol": "25", "average": "-6", "puan": "8"}]
+[
+  {
+    "sirano": "1", 
+    "takimadi": "MAHMUTK\u00d6Y\u00dc KARTAL GEN\u00c7L\u0130K SPOR", 
+    "oynanan_oyun": "8", 
+    "galibiyet": "6", 
+    "beraberlik": "1", 
+    "maglubiyet": "1", 
+    "attigi_gol": "25", 
+    "yedigi_gol": "13", 
+    "average": "12", 
+    "puan": "19"
+  }, 
+  {
+    "sirano": "2", 
+    "takimadi": "AK\u00c7\u0130N GEN\u00c7L\u0130K SPOR", 
+    "oynanan_oyun": "8", 
+    "galibiyet": "3", 
+    "beraberlik": "1", 
+    "maglubiyet": "4", 
+    "attigi_gol": "22", 
+    "yedigi_gol": "22", 
+    "average": "0", 
+    "puan": "10"
+  }, 
+  {
+    "sirano": "3", 
+    "takimadi": "\u00c7IKRIK GEN\u00c7L\u0130K SPOR", 
+    "oynanan_oyun": "8", 
+    "galibiyet": "3", 
+    "beraberlik": "1", 
+    "maglubiyet": "4", 
+    "attigi_gol": "23", 
+    "yedigi_gol": "26", 
+    "average": "-3", 
+    "puan": "10"
+  }, 
+  {
+    "sirano": "4", 
+    "takimadi": "ATAK\u00d6Y GEN\u00c7L\u0130K SPOR", 
+    "oynanan_oyun": "8", 
+    "galibiyet": "2", 
+    "beraberlik": "3", 
+    "maglubiyet": "3", 
+    "attigi_gol": "16", 
+    "yedigi_gol": "19", 
+    "average": "-3", 
+    "puan": "9"
+  }, 
+  {
+    "sirano": "5",
+    "takimadi": "SULTANDA\u011eI SPOR", 
+    "oynanan_oyun": "8", 
+    "galibiyet": "2", 
+    "beraberlik": "2",
+    "maglubiyet": "4",
+    "attigi_gol": "19",
+    "yedigi_gol": "25",
+    "average": "-6",
+    "puan": "8"
+  }
+]
