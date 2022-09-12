@@ -1,5 +1,4 @@
 [
-  
   {
     'sirano': '1', 
     'takimadi': 'MAHMUTK\u00d6Y\u00dc KARTAL GEN\u00c7L\u0130K SPOR', 
@@ -11,8 +10,7 @@
     'yedigi_gol': '13', 
     'puan': '12', 
     'average': '19'
-  }, 
-  
+  },
   {
     'sirano': '2', 
     'takimadi': 'AK\u00c7\u0130N GEN\u00c7L\u0130K SPOR', 
@@ -24,8 +22,7 @@
     'yedigi_gol': '22', 
     'puan': '0', 
     'average': '10'
-  }, 
-  
+  },
   {
     'sirano': '3', 
     'takimadi': '\u00c7IKRIK GEN\u00c7L\u0130K SPOR', 
@@ -37,8 +34,7 @@
     'yedigi_gol': '26', 
     'puan': '-3', 
     'average': '10'
-  }, 
-  
+  },
   {
     'sirano': '4', 
     'takimadi': 'ATAK\u00d6Y GEN\u00c7L\u0130K SPOR', 
@@ -51,7 +47,6 @@
     'puan': '-3', 
     'average': '9'
   },
-  
   {
     'sirano': '5', 
     'takimadi': 'SULTANDA\u011eI SPOR', 
@@ -64,5 +59,4 @@
     'puan': '-6', 
     'average': '8'
   }
-  
 ]
